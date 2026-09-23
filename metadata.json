@@ -1,0 +1,6 @@
+{
+  "name": "Household Plant Tracker",
+  "description": "Track indoor plant watering schedules by room with instant localStorage persistence and watering urgency dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
